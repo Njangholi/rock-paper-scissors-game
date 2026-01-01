@@ -52,3 +52,9 @@ It`s a tie!
 Do you want to play again? (Enter any key to continue, otherwise press q/Q to exit)q
 Thank you for playing! Goodbye!
 ```
+## Future Enhancements
+- Add a scoring system to keep track of wins, losses, and ties.
+- keep a specific number of rounds to determine the overall winner.
+- Implement a graphical user interface (GUI) for a more engaging experience.
+- Introduce additional game modes or variations, such as Rock, Paper, Scissors, Lizard, Spock.
+- Allow multiplayer functionality for two players.
